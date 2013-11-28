@@ -19,6 +19,9 @@
   <remote name="bajee"
          fetch="https://github.com/Bajee11/" />
 
+  <remote name="TM"
+         fetch="https://github.com/TeamCanjica" />
+         
   <remote name="cr"
            fetch="git://github.com/CarbonDev/" />
 
@@ -392,7 +395,6 @@
   <project path="system/vold" name="system_vold" remote="rootbox" revision="jb-mr1" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
-
   <project path="vendor/rootbox" name="vendor_rootbox" remote="rootbox" revision="jb-mr1" />
   <project path="vendor/asus" name="vendor_asus" remote="rootbox" revision="jb-mr1" />
   <project path="vendor/lge" name="vendor_lge" remote="aokp" revision="jb-mr1" />
@@ -403,4 +405,10 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr1" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
   <project path="platform_manifest" name="platform_manifest" remote="rootbox" revision="jb-mr1" />
+  <project path="kernel/samsung/u8500" name="TeamCanjica/android_kernel_samsung_u8500" revision="cm-10.1" />
+  <project path="kernel/samsung/codina" name="TeamCanjica/android_kernel_samsung_codina" revision="cm-10.1" />
+  <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-10.1" />
+  <project path="device/samsung/u8500-common" name="TeamCanjica/android_device_samsung_u8500-common" revision="cm-10.1" />
+  <project path="device/samsung/codina" name="TeamCanjica/android_device_samsung_codina" revision="cm-10.1" />
+  <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-10.1" />
 </manifest>
