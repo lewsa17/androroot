@@ -1,3 +1,3 @@
 README
 
-Maybe this solve problem with sources.
+Codina Device tree with Rootbox sources.
