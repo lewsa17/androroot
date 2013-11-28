@@ -62,3 +62,4 @@
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="UnicornButter/frameworks_wilhelm" remote="gh" revision="jb-mr1" />
+</manifest>
