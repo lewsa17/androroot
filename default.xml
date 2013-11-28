@@ -270,7 +270,6 @@
   <project path="hardware/qcom/display-caf" name="hardware_qcom_display-caf" remote="rootbox" revision="jb-mr1" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" />
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/qcom/media-caf" name="hardware_qcom_media-caf" remote="rootbox" revision="jb-mr1" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="cm" revision="cm-10.1" />
