@@ -19,8 +19,8 @@
   <remote name="bajee"
          fetch="https://github.com/Bajee11/" />
 
-  <remote name="TM"
-         fetch="https://github.com/TeamCanjica" />
+ <remote name="private"
+           fetch="ssh://git@github.com" />
          
   <remote name="cr"
            fetch="git://github.com/CarbonDev/" />
