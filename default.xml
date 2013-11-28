@@ -405,7 +405,6 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr1" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
   <project path="platform_manifest" name="platform_manifest" remote="rootbox" revision="jb-mr1" />
-  <project path="kernel/samsung/u8500" name="android_kernel_samsung_u8500" remote="tm" revision="cm-10.1" />
   <project path="kernel/samsung/codina" name="android_kernel_samsung_codina" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung/u8500-common" name="android_vendor_samsung_u8500-common" remote="tm" revision="cm-10.1" />
   <project path="device/samsung/u8500-common" name="android_device_samsung_u8500-common" remote="tm" revision="cm-10.1" />
