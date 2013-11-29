@@ -49,6 +49,9 @@
     <copyfile src="build_rootbox.sh" dest="build_rootbox.sh" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
+  <project path="frameworks/av" name="frameworks_av" remote="rox" revision="Rootbox" />
+  <project path="frameworks/native" name="frameworks_native" remote="rox" revision="Rootbox" />
+  <project path="system/core" name="android_system_core" remote="rox" revision="Rootbox" />
   <project path="bionic" name="android_bionic" remote="rootbox" revision="jb-mr1" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
