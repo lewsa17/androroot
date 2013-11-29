@@ -23,7 +23,7 @@
            fetch="https://github.com/TeamCanjica" />
          
   <remote name="rox"
-           fetch="git://github.com/Rox-/" />
+           fetch="https://github.com/Rox-/" />
 
   <remote name="xy"
            fetch="https://github.com/XYAOSP/" />
