@@ -49,9 +49,6 @@
     <copyfile src="build_rootbox.sh" dest="build_rootbox.sh" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="frameworks/av" name="frameworks_av" remote="rox" revision="Rootbox" />
-  <project path="frameworks/native" name="frameworks_native" remote="rox" revision="Rootbox" />
-  <project path="system/core" name="android_system_core" remote="rox" revision="Rootbox" />
   <project path="bionic" name="android_bionic" remote="rootbox" revision="jb-mr1" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
@@ -239,6 +236,7 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
+  <project path="frameworks/av" name="frameworks_av" remote="rox" revision="Rootbox" />
   <project path="frameworks/base" name="frameworks_base" remote="rootbox" revision="jb-mr1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
@@ -248,6 +246,7 @@
   <project path="frameworks/ex" name="UnicornButter/frameworks_ex" remote="gh" revision="jb-mr1" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
+  <project path="frameworks/native" name="frameworks_native" remote="rox" revision="Rootbox" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
@@ -389,6 +388,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="sdk" name="android_sdk" remote="cm" revision="cm-10.1" />
+  <project path="system/core" name="android_system_core" remote="rox" revision="Rootbox" />
   <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="cm-10.1" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="cm-10.1" />
   <project path="system/media" name="platform/system/media" />
